@@ -18,7 +18,7 @@ Compile the Base Station:
 bash-make TARGET=sky base-station
 This will generate the .sky firmware files required for Cooja simulation.
 
-##2️⃣ Run in Cooja
+## 2️⃣ Run in Cooja
 Start Cooja Simulator:
 
 bash-
@@ -36,7 +36,7 @@ simulations/weather_station.csc
 Start the Simulation:
 Press the green play button in Cooja.
 
-##3️⃣ Observe Output
+## 3️⃣ Observe Output
 Sensor Nodes will log messages like:
 [INFO: SensorNode] Sending message: Temp: 27, Hum: 62
 
